@@ -1,0 +1,27 @@
+h2 {
+  color: orange;
+  display: flex;
+}
+p {
+  color: brown;
+  display: flex;
+}
+
+a {
+  border: none;
+}
+
+.header {
+  background-color: #080808;
+  display: flex;
+  justify-content: space-evenly;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 30px;
+  margin: 25px;
+  width: 100%;
+  background-color: #6ae469;
+}
